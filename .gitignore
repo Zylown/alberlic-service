@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+
+*.log
+playwright-*.png
+
+.env
+.env.local
+.env.*.local
